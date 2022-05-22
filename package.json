@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "learning import-map",
+  "main": "hello.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresQZ/learning-import-maps.git"
+  },
+  "author": "andresqz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresQZ/learning-import-maps/issues"
+  },
+  "homepage": "https://github.com/AndresQZ/learning-import-maps#readme",
+  "devDependencies": {
+    "rollup": "^2.74.1"
+  }
+}
